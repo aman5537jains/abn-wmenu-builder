@@ -30,6 +30,6 @@
 </script>
 
 {{-- <script type="text/javascript" src="{{asset('public/vendor/harimayco-menu/scripts2.js')}}"></script> --}}
-<script type="text/javascript" src="{{asset('public/vendor/harimayco-menu/scripts.js')}}"></script>
+<script type="text/javascript" src="{{asset('vendor/harimayco-menu/scripts.js')}}"></script>
 
-<script type="text/javascript" src="{{asset('public/vendor/harimayco-menu/menu.js')}}"></script>
+<script type="text/javascript" src="{{asset('vendor/harimayco-menu/menu.js')}}"></script>

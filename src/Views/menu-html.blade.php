@@ -4,7 +4,7 @@ $currentUrl = url()->current();
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
 
-<link href="{{asset('public/vendor/harimayco-menu/style.css')}}" rel="stylesheet">
+<link href="{{asset('vendor/harimayco-menu/style.css')}}" rel="stylesheet">
 <div id="hwpwrap">
 	<div class="custom-wp-admin wp-admin wp-core-ui js   menu-max-depth-0 nav-menus-php auto-fold admin-bar">
 		<div id="wpwrap">
